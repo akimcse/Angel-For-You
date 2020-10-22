@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b1bd27c8d83d90ba0ac952f3912b2f0",
+    "revision": "4ceca56bdbd15d9b3fce549511439636",
     "url": "/angel_in_us/index.html"
   },
   {
-    "revision": "ec44e2f3d7f2a71aac72",
-    "url": "/angel_in_us/static/css/main.5f361e03.chunk.css"
+    "revision": "6de32613a96239214dda",
+    "url": "/angel_in_us/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "f1353be03f8c5218b316",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/angel_in_us/static/js/2.4ebca246.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec44e2f3d7f2a71aac72",
-    "url": "/angel_in_us/static/js/main.bcae5516.chunk.js"
+    "revision": "6de32613a96239214dda",
+    "url": "/angel_in_us/static/js/main.514ed5e3.chunk.js"
   },
   {
     "revision": "c3a17cd8e214ce0cf757",
     "url": "/angel_in_us/static/js/runtime-main.fa0b5d5c.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/angel_in_us/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/angel_in_us/static/media/logo.ee7cd8ed.svg"
   }
 ]);
