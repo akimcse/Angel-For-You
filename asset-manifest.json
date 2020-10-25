@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/angel_in_us/static/css/main.523f09c5.chunk.css",
-    "main.js": "/angel_in_us/static/js/main.514ed5e3.chunk.js",
-    "main.js.map": "/angel_in_us/static/js/main.514ed5e3.chunk.js.map",
-    "runtime-main.js": "/angel_in_us/static/js/runtime-main.fa0b5d5c.js",
-    "runtime-main.js.map": "/angel_in_us/static/js/runtime-main.fa0b5d5c.js.map",
-    "static/js/2.4ebca246.chunk.js": "/angel_in_us/static/js/2.4ebca246.chunk.js",
-    "static/js/2.4ebca246.chunk.js.map": "/angel_in_us/static/js/2.4ebca246.chunk.js.map",
-    "index.html": "/angel_in_us/index.html",
-    "precache-manifest.734c1992dc4bbe2f19a377629dee306f.js": "/angel_in_us/precache-manifest.734c1992dc4bbe2f19a377629dee306f.js",
-    "service-worker.js": "/angel_in_us/service-worker.js",
-    "static/css/main.523f09c5.chunk.css.map": "/angel_in_us/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.4ebca246.chunk.js.LICENSE.txt": "/angel_in_us/static/js/2.4ebca246.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/angel_in_us/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/angel_in_us_front/static/css/main.523f09c5.chunk.css",
+    "main.js": "/angel_in_us_front/static/js/main.b5d83bb9.chunk.js",
+    "main.js.map": "/angel_in_us_front/static/js/main.b5d83bb9.chunk.js.map",
+    "runtime-main.js": "/angel_in_us_front/static/js/runtime-main.82832f94.js",
+    "runtime-main.js.map": "/angel_in_us_front/static/js/runtime-main.82832f94.js.map",
+    "static/js/2.4ebca246.chunk.js": "/angel_in_us_front/static/js/2.4ebca246.chunk.js",
+    "static/js/2.4ebca246.chunk.js.map": "/angel_in_us_front/static/js/2.4ebca246.chunk.js.map",
+    "index.html": "/angel_in_us_front/index.html",
+    "precache-manifest.897cd63540b816c88ba43d4ff300adb7.js": "/angel_in_us_front/precache-manifest.897cd63540b816c88ba43d4ff300adb7.js",
+    "service-worker.js": "/angel_in_us_front/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/angel_in_us_front/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.4ebca246.chunk.js.LICENSE.txt": "/angel_in_us_front/static/js/2.4ebca246.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/angel_in_us_front/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa0b5d5c.js",
+    "static/js/runtime-main.82832f94.js",
     "static/js/2.4ebca246.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.514ed5e3.chunk.js"
+    "static/js/main.b5d83bb9.chunk.js"
   ]
 }
