@@ -1,7 +1,7 @@
 
 # Like lion Hackathon with Lotte
 
-[toc]
+[1. 프로젝트 소개](#1.-프로젝트-소개)
 
 ## 1. 프로젝트 소개
 
