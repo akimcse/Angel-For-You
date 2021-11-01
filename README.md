@@ -1,12 +1,7 @@
 
-
-
-
 # Like lion Hackathon with Lotte
 
 [TOC]
-
-
 
 ## 1. 프로젝트 소개
 
